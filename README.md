@@ -1,4 +1,4 @@
 mnewww
 Logic commit
-new change
-
+new change=
+12345-ch
